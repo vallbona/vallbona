@@ -81,7 +81,7 @@ $git checkout -b solucio
 
 ``Creamos el repositorio exercisi2 en Github cambiamos el origin y subimos los cambios``
 ```
-$git remote set-url origin git@github.com:vallbona/exercisi2.git
+$git remote set-url origin git@github.com:vallbona/exercisi2-a.git
 $git add .
 $git commit -m "Ejercicio resuelto"
 $git checkout -b solucio
@@ -90,7 +90,7 @@ $git merge solucio
 $git push -u origin master
 
 ```
-``Link para clonar: git@github.com:vallbona/exercisi2.git``
+``Link para clonar: git@github.com:vallbona/exercisi2-a.git``
 <br/>
 
 > ### 12- Realitza un «fork» del repositori del repositori «git@github.com:jvallbona/exercici2.git».Què ha passat? Adjunta una captura de pantalla del teu repositori. 
