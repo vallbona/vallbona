@@ -24,7 +24,18 @@ $touch README.md
 $git add .
 $git commit -m "readme.md + img"
 $git remote add origin git@github.com:vallbona/vallbona.git
+$git pull --allow-unrelated-histories origin main
 $git push origin main
+```
+
+<br/>
+
+> ### 4- Crea   una   branca   anomenada   «dev»   i   actualitza   el   repostori   amb   GitHub.   Indica   la comanda utilitzada. 
+
+```
+$git checkout -b dev
+$git push -u origin dev
+
 ```
 
 <br/>
