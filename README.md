@@ -23,7 +23,7 @@ $git checkout -b main
 $touch README.md
 $git add .
 $git commit -m "readme.md + img"
-$git remote add origin https://github.com/vallbona/vallbona.git
+$git remote add origin git@github.com:vallbona/vallbona.git
 ```
 
 <br/>
