@@ -61,3 +61,11 @@ $git push origin dev
 
 ![Merged](./img/merged.png)
 <br/>
+
+> ### 9- Clona   el   repositori   «git@github.com:jvallbona/exercici2.git».   Crea   una   branca anomenada «solucio». Indica la comanda que has utilitzat. 
+
+```
+$git clone git@github.com:vallbona/vallbona.git
+
+```
+<br/>
