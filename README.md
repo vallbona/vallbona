@@ -24,6 +24,7 @@ $touch README.md
 $git add .
 $git commit -m "readme.md + img"
 $git remote add origin git@github.com:vallbona/vallbona.git
+$git push origin main
 ```
 
 <br/>
