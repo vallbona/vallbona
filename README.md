@@ -39,3 +39,25 @@ $git push -u origin dev
 ```
 
 <br/>
+
+> ### 5- Crea un fitxer anomenat «index.html» i actualitza el repositori amb GitHub. Indica lescomandes utilitzades. 
+
+```
+$touch index.html
+$git add .
+$git commit -m "Creado index.html en dev"
+$git push origin dev
+
+```
+
+<br/>
+
+> ### 6- Crea   el   pull   request   amb   un   comentari   indicant   els   canvis   que   has   realitzat   en   elcommmit que has fet. Adjunta una captura de pantalla un cop enviat el «pull request». 
+
+![Creado pull request](./img/creadoPullRequest.png)
+<br/>
+
+> ### 7- Accepta el pull request i realitza el merge amb «master». Adjunta captura de pantallaon es vegi que has realitzat el merge. 
+
+![Merged](./img/merged.png)
+<br/>
